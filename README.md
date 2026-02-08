@@ -7,9 +7,11 @@
 <h2>Hardware</h2>
 
 <p>
+  
   - Arduino Uno
 
   - Push button
-
+  
   - 10K resistor
+  
 </p>
