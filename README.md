@@ -15,3 +15,10 @@
   - 10K resistor
   
 </p>
+
+<h2>Wiring</h2>
+
+<p> See diagram here:
+https://github.com/kingston-hackSpace/push-button-with-arduino/blob/main/push_button_bb.png
+  
+</p>
