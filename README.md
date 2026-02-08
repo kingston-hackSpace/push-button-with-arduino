@@ -32,7 +32,3 @@ https://github.com/kingston-hackSpace/push-button-with-arduino/blob/main/push_bu
   
 </p>
 
-<h2>Understanding push buttons</h2>
-
-<p> 
-</p>
